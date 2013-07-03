@@ -367,7 +367,7 @@ Buckabear Pond,West Milford Township,Passaic
 Buckingham,Manchester Township,Ocean
 Buckmire Pond,Green Township,Sussex
 Buckshutem,Commercial Township,Cumberland
-Buckwood Park,Pahaquarry Township,Warren
+Buckwood Park,Hardwick Township,Warren
 Budd Lake,Mount Olive Township,Morris
 Buddtown,Southampton Township,Burlington
 Buena,Buena Borough,Atlantic
@@ -404,7 +404,7 @@ Caldwell,Caldwell Borough Township,Essex
 Calico,Bass River Township,Burlington
 Califon,Califon Borough,Hunterdon
 Calis,Randolph Township,Morris
-Calno,Pahaquarry Township,Warren
+Calno,Hardwick Township,Warren
 Cambridge,Delran Township,Burlington
 Camden,Camden City,Camden
 Camden Almshouse Asylum,Gloucester Township,Camden
@@ -439,7 +439,7 @@ Carteret,Carteret Borough,Middlesex
 Carys,Roxbury Township,Morris
 Cassville,Jackson Township,Ocean
 Catawba,Hamilton Township,Atlantic
-Catfish Pond,Pahaquarry Township,Warren
+Catfish Pond,Hardwick Township,Warren
 Catfish Pond,Stillwater Township,Sussex
 Cattus Island,Toms River Township,Ocean
 Caviar,Greenwich Township,Cumberland
@@ -665,7 +665,7 @@ Daretown,Upper Pittsgrove Township,Salem
 Darlington,Mahwah Township,Bergen
 Dart's Mills,Readington Township,Hunterdon
 Davis,Upper Freehold Township,Monmouth
-Davis Bridge,Passaic Township,Morris
+Davis Bridge,Long Hill Township,Morris
 Davis Cove,Hopatcong Borough,Sussex
 Davis Mills,Greenwich Township,Cumberland
 Davis Pond,Andover Township,Sussex
@@ -740,6 +740,8 @@ Dorothy,Weymouth Township,Atlantic
 Double Trouble,Berkeley Township,Ocean
 Doughty,Buena Vista Township,Atlantic
 Doughtys,Galloway Township,Atlantic
+Dover,Toms River Township,Ocean
+Dover Township, Toms River Township,Ocean
 Dover,Dover Town,Morris
 Dover Forge,Berkeley Township,Ocean
 Dowlbyville,Rockaway Township,Morris
@@ -765,7 +767,7 @@ Dunellen,Dunellen Borough,Middlesex
 "Dunes, The ",Long Beach Township,Ocean
 Dunhams Corner,East Brunswick Township,Middlesex
 Dunker Pond,West Milford Township,Passaic
-Dunnfield,Pahaquarry Township,Warren
+Dunnfield,Hardwick Township,Warren
 Dunns Mill,Bordentown Township,Burlington
 Durham Pond,Rockaway Township,Morris
 Dutch Hill,Clifton City,Passaic
@@ -1053,7 +1055,7 @@ Gilford Park,Toms River Township,Ocean
 Gillespie Hill,Morris Township,Morris
 Gillette,Long Hill Township,Morris
 Gilmores Island,Toms River Township,Ocean
-"Glades, The", Downe Township,Cumberland,
+"Glades, The", Downe Township,Cumberland
 Gladstone,Peapack & Gladstone Borough,Somerset
 Glassboro,Glassboro Borough,Gloucester
 Glasser,Hopatcong Borough,Sussex
@@ -1292,7 +1294,7 @@ High Crossing,Shamong Township,Burlington
 High Point,Harvey Cedars Borough,Ocean
 High Point,Montague Township,Sussex
 High Point Park,Montague Township,Sussex
-Highland Lake,West Paterson Borough,Passaic
+Highland Lake,Woodland Park Borough,Passaic
 Highland Lakes,Vernon Township,Sussex
 Highland Park,Gloucester City,Camden
 Highland Park,Highland Park Borough,Middlesex
@@ -1512,7 +1514,7 @@ Lake Aeroflex,Andover Township,Sussex
 Lake Ashroe,Sandyston Township,Sussex
 Lake Barnegat,Lacey Township,Ocean
 Lake Carasaljo,Lakewood Township,Ocean
-Lake Como,Wall Township,Monmouth
+Lake Como,Lake Como Borough,Monmouth
 Lake Erskine,Ringwood Borough,Passaic
 Lake Estling,Denville Township,Morris
 Lake George,Washington Township,Morris
@@ -1521,7 +1523,7 @@ Lake Grinnell,Sparta Township,Sussex
 Lake Hiawatha,Parsippany-Troy Hills Township,Morris
 Lake Hopatcong,Hopatcong Borough,Sussex
 Lake Hopatcong,Jefferson Township,Morris
-Lake Hopatcong,Mt. Arlington Borough,Morris
+Lake Hopatcong,Mount Arlington Borough,Morris
 Lake Hopatcong,Roxbury Township,Morris
 Lake Iliff,Andover Township,Sussex
 Lake Inez,Wanaque Borough,Passaic
@@ -1690,7 +1692,7 @@ Lotz Pond,North Haledon Borough,Passaic
 Louden,Waterford Township,Camden
 Louisville,Lawrence Township,Mercer
 Loveladies,Long Beach Township,Ocean
-Lovelandtown,Point Pleasant,Ocean
+Lovelandtown,Point Pleasant Borough,Ocean
 Low Moor,Sea Bright Borough,Monmouth
 Lower Alloways Creek,Lower Alloways Creek Township,Salem
 Lower Bank,Washington Township,Burlington
@@ -1849,7 +1851,7 @@ Milford,Evesham Township ,Burlington
 Milford Borough,Milford Borough,Hunterdon
 Mill Brook,Randolph Township,Morris
 Mill Creek Cove,Elsinboro Township,Salem
-Millbrook,Pahaquarry Township,Warren
+Millbrook,Hardwick Township,Warren
 Millburn,Millburn Township,Essex
 Milldale,Chester Township,Morris
 Millhurst,Manalapan Township,Monmouth
@@ -2179,7 +2181,7 @@ Orchard,Cherry Hill Township,Camden
 Oriental,Tabernacle Township,Burlington
 Ormond,Maurice River Township,Cumberland
 Orston,Audubon Borough,Camden
-Ortley,Dover Borough,Ocean
+Ortley,Toms River Township,Ocean
 Ortley Beach,Toms River Township,Ocean
 Osage,Voorhees Township,Camden
 Osborn Island,Wall Township,Monmouth
@@ -2196,6 +2198,8 @@ Owens,Vernon Township,Sussex
 Oxford,Oxford Township,Warren
 Packanack Lake,Wayne Township,Passaic
 Pages Corners,Robbinsville Township,Mercer
+Pahaquarry, Hardwick Township,Warren
+Pahaquarry Township, Hardwick Township,Warren
 Paisley,Tabernacle Township,Burlington
 Palatine,Pittsgrove Township,Salem
 Palermo,Upper Township,Cape May
@@ -2232,7 +2236,7 @@ Parvins Branch,Vineland City,Cumberland
 Pasadena,Manchester Township,Ocean
 Passaic,Passaic City,Passaic
 Passaic Junction,Elmwood Park Borough,Bergen
-Passaic Township,Passaic Township,Morris
+Passaic Township,Long Hill Township,Morris
 Paterson,Paterson City,Passaic
 Patricks Corner ,East Brunswick Township,Middlesex
 Patricks Corner,North Brunswick Township,Middlesex
@@ -2337,7 +2341,7 @@ Pleasant Hill,Chester Township,Morris
 Pleasant Mills,Mullica Township,Atlantic
 Pleasant Mills,Washington Township,Burlington
 Pleasant Plains,Toms River Township,Ocean
-Pleasant Plains,Passaic Township,Morris
+Pleasant Plains,Long Hill Township,Morris
 Pleasant Run,Readington Township,Hunterdon
 Pleasant Valley,Hopewell Township,Mercer
 Pleasant Valley,Marlboro Township,Monmouth
@@ -2709,6 +2713,7 @@ Sooy Place,Tabernacle Township,Burlington
 South Amboy,South Amboy City,Middlesex
 South Beach Haven,Long Beach Township,Ocean
 South Beach View,Stafford Township,Ocean
+South Belmar,Lake Como Borough,Monmouth
 South Bound Brook,South Bound Brook Borough,Somerset
 South Branch,Hillsborough Township,Somerset
 South Brunswick Township,South Brunswick Township,Middlesex
@@ -2834,7 +2839,7 @@ Summerfield,White Township,Warren
 Summit,Summit City,Union
 Summit Lake,Hardyston Township,Sussex
 Sun Tan Lake,Kinnelon Borough,Morris
-Sunfish Pond,Pahaquarry Township,Warren
+Sunfish Pond,Hardwick Township,Warren
 Sunnyside,Franklin Township,Hunterdon
 Sunset,Upper Deerfield Township,Cumberland
 Sunset Beach,Lower Township,Cape May
@@ -3156,7 +3161,7 @@ West Ocean City,Upper Township,Cape May
 West Orange,West Orange Township,Essex
 West Osbornville,Brick Township,Ocean
 West Palmyra,Palmyra Borough,Burlington
-West Park,West Paterson Borough,Passaic
+West Park,Woodland Park Borough,Passaic
 West Point Island,Ocean Township,Ocean
 West Pond,West Milford Township,Passaic
 West Portal,Bethlehem Township,Hunterdon

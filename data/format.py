@@ -1,4 +1,7 @@
+import json
+
 mylist = [line.rstrip().split(',') for line in open("localnames.csv", "r") if '"' not in line]
+
 
 localnames=open("localnames.csv", "r")
 for line in localnames.readlines():
@@ -22,6 +25,7 @@ for item in mylist:
     
 flist=newlist[1:]
 
+
 #loop through the list of dictionaries. 
 #If the uniqname appears, then just add the nick to the list of nicks for that entry.
 #if not, make a new entry
@@ -40,5 +44,5 @@ for item in flist:
 
 myfile=open("output.txt","w")
 
-print >> myfile, biglist
+print >> myfile, json.dumps(biglist)
 myfile.close()
