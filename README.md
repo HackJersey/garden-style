@@ -1,4 +1,4 @@
-# placernj
+# garden-style
 ========
 
 A Python library to clean and standardize New Jersey town names.
